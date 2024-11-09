@@ -1,3 +1,5 @@
-API_SETTINGS:
-  endpoint: '/productionplan'
+API:
+  protocol: http
+  host: 0.0.0.0
+  endpoint: productionplan
   port: 8888
