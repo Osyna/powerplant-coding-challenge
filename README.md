@@ -1,3 +1,8 @@
+## Info
+
+powerplant-coding-challenge
+Submission by Irvin Heslan
+
 ## Prerequisites
 
 - Python 3.8 or higher
@@ -132,7 +137,8 @@ Calculate the optimal production plan for power plants.
 
 ## Logging
 
-All the logs file are in logs/folder if the folder is not existing it will
+All the logs file are in logs/folder if the folder is not existing it will create the folder logs.
+One log per day of run.
 
 
 ## Testing
